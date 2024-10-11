@@ -8,7 +8,7 @@ MERNeats is a full-stack web application designed to facilitate food ordering. I
 - [Tech Stack](#tech-stack)
 - [Installation](#installation)
 - [Usage](#usage)
-- [License](#license)
+- [Credits](#credits)
 
 ## Features
 
@@ -66,7 +66,7 @@ MERNeats is a full-stack web application designed to facilitate food ordering. I
 
     - Create a `.env` file in the `frontend` directory with the following variables:
 
-        ```e
+        ```env
         VITE_AUTH0_DOMAIN=your_auth0_domain
         VITE_AUTH0_CLIENT_ID=your_auth0_client_id
         VITE_AUTH0_CALLBACK_URL=your_auth0_callback_url
@@ -110,6 +110,6 @@ MERNeats is a full-stack web application designed to facilitate food ordering. I
 - `npm run build`: Compiles TypeScript to JavaScript.
 - `npm run start`: Runs the compiled JavaScript files.
 
-## License
+## Credits
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project was developed following a tutorial by [Chris Blakely](https://github.com/chrisblakely01). You can find the original tutorial [here](https://www.youtube.com/watch?v=ardeKHEN1j4).
