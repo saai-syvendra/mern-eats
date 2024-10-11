@@ -2,6 +2,8 @@
 
 MERNeats is a full-stack web application designed to facilitate food ordering. It leverages the MERN stack (MongoDB, Express, React, Node.js) and integrates with various third-party services for authentication and payment processing.
 
+![Project Screenshot](frontend\public\project_screenshot.png)
+
 ## Table of Contents
 
 - [Features](#features)
